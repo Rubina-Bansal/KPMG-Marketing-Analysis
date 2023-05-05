@@ -2,12 +2,12 @@
 
 This project is a part of the KPMG Data Analytics Consulting Virtual Internship hosted by Forage. Link to the internship: https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=RWKXu8PZoEgdzjhmP.   
 
-The internship is designed to simulate a real-life consulting project. The project consisted of three modules, each focusing on a different aspect of the consulting process, including data quality assessment, data insights, data visualization, and a final presentation to the client. IT gave a wonderful opportunity to experience as to what it is like to be inside the firm and got an exprience around what they do day-to-day in terms of collecing and capturing data, analyzing that data, and drawing out deep insights to be able to present those to the clients. 
+The internship is designed to simulate a real-life consulting project. It gave a wonderful opportunity to experience as to what it is like to be inside the firm and got an exprience around what they do day-to-day in terms of collecing and capturing data, analyzing that data, and drawing out deep insights to be able to present those to the clients. 
 
 DATA SOURCE: Excel file containing the data used, has been uploaded.
 
 ## Project Overwiew:
-Our task was to analyze the data provided by the client, which contained information about their customers, transactions, and demographic data. We used various tools, including Pythong to clean, manipulate, and visualize the data. Through this process, we were able to identify key trends and insights, which were used to provide recommendations to the client.
+Our task was to analyze the data provided by the client, which contained information about their customers, transactions, and demographic data. We used various tools, including Python to clean, manipulate, and visualize the data. Through this process, we were able to identify key trends and insights, which were used to provide recommendations to the client.
 
 #### Modules:
 1. Data Quality Assessment
