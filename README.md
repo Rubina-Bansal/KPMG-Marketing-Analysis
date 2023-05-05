@@ -1,29 +1,32 @@
 # KPMG-Marketing-Analysis
 
-This project is a part of the KPMG Data Analytics Consulting Virtual Internship offered by Forage. Link to the internship: https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=RWKXu8PZoEgdzjhmP.   
+This project is a part of the KPMG Data Analytics Consulting Virtual Internship hosted by Forage. Link to the internship: https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=RWKXu8PZoEgdzjhmP.   
 
-This internship gave a wonderful opportunity to experience as to what it is like to be inside the firm. Herein, I worked with the data analytics team in Whitehouse (a real-life scenario was created) and got an exprience around what they do day-to-day in terms of collecing and capturing data, analyzing that data, and drawing out deep insights to be able to present those to the clients. 
+The internship is designed to simulate a real-life consulting project. The project consisted of three modules, each focusing on a different aspect of the consulting process, including data quality assessment, data insights, data visualization, and a final presentation to the client. IT gave a wonderful opportunity to experience as to what it is like to be inside the firm and got an exprience around what they do day-to-day in terms of collecing and capturing data, analyzing that data, and drawing out deep insights to be able to present those to the clients. 
 
-During this project I worked on various tasks:
+DATA SOURCE: Excel file containing the data used, has been uploaded.
+
+## Project Overwiew:
+Our task was to analyze the data provided by the client, which contained information about their customers, transactions, and demographic data. We used various tools, including Pythong to clean, manipulate, and visualize the data. Through this process, we were able to identify key trends and insights, which were used to provide recommendations to the client.
+
+#### Modules:
 1. Data Quality Assessment
 
-Assessment of data quality and completeness in preparation for analysis
+Data quality assessment was conducted to ensure that the data provided by the client was accurate and complete. We performed various checks, including verifying the completeness of the data, identifying and removing duplicate entries, and validating the accuracy of the data.
 
-2. Data Insights
+2. Data Insights 
 
-Targeting high value customers based on customer demographics and attributes.
+Targeting high value customers based on customer demographics and attributes. Used Jupyter notebook(Python) to perform statistical analyses, to identify correlations between variables. Also, created pivot tables and charts to visualize the data and identify trends.
 
 3. Data Insights and Presentation
 
-Using visualisations to present insights
-
+In this module, we used PowerBI to create interactive dashboards that presented the data in a visually appealing and easy-to-understand way.
 
 ### Skills gained:
 
 - Data Analysis (Using Python - Jupyter Notebook)
 - Customer Segmentation (Conducted RFM Analysis)
-- Data Driven Presentations
-- Data Dashboards (Analytical Dashboard Creation)
+- Data Dashboards (Analytical Dashboard Creation)    <br>
 (Using Power BI to build interactive and high quality dashboards)
 
 
