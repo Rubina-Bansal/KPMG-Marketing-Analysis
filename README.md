@@ -20,8 +20,12 @@ Using visualisations to present insights
 
 ### Skills gained:
 
-- Data Analysis (Using Pyhton - Jupyter Notebook)
+- Data Analysis (Using Python - Jupyter Notebook)
 - Customer Segmentation (Conducted RFM Analysis)
 - Data Driven Presentations
 - Data Dashboards (Analytical Dashboard Creation)
 (Using Power BI to build interactive and high quality dashboards)
+
+
+
+This internship provoded me with a valuable learning opportunity. I gained an in-depth understanding of how to interpret and analyze data to identify key insights that could help businesses make informed decisions. I also learned how to present this information in a clear and concise manner, ensuring that clients understood the findings and their potential impact.
