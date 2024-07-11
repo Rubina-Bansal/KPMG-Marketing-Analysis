@@ -7,12 +7,12 @@ The internship is designed to simulate a real-life consulting project. It gave a
 DATA SOURCE: Excel file containing the data used, has been uploaded.
 
 ## Project Overwiew:
-Our task was to analyze the data provided by the client, which contained information about their customers, transactions, and demographic data. We used various tools, including Python to clean, manipulate, and visualize the data. Through this process, we were able to identify key trends and insights, which were used to provide recommendations to the client.
+The task was to analyze the data provided by the client, which contained information about their customers, transactions, and demographic data. Various tools were used, including Python, to clean, manipulate, and visualize the data. Through this process, key trends were identified and insights generated, which were used to provide recommendations to the client.
 
 #### Modules:
 1. Data Quality Assessment
 
-Data quality assessment was conducted to ensure that the data provided by the client was accurate and complete. We performed various checks, including verifying the completeness of the data, identifying and removing duplicate entries, and validating the accuracy of the data.
+Data quality was assessed to ensure that the data provided by the client was accurate and complete. Various checks were performed, including verifying the completeness of the data, identifying and removing duplicate entries, and validating the accuracy of the data.
 
 2. Data Insights 
 
@@ -20,7 +20,7 @@ Targeting high value customers based on customer demographics and attributes. Us
 
 3. Data Insights and Presentation
 
-In this module, we used PowerBI to create interactive dashboards that presented the data in a visually appealing and easy-to-understand way.
+In this module, interactive dashboard was created that presented the data in a visually appealing and easy-to-understand way for the stakeholders.
 
 ### Skills gained:
 
