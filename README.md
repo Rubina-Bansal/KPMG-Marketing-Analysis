@@ -32,3 +32,8 @@ In this module, interactive dashboard was created that presented the data in a v
 
 
 This internship provoded me with a valuable learning opportunity. I gained an in-depth understanding of how to interpret and analyze data to identify key insights that could help businesses make informed decisions. I also learned how to present this information in a clear and concise manner, ensuring that clients understood the findings and their potential impact.
+
+![cover picture](https://github.com/user-attachments/assets/eaccb66a-e85e-462d-9e7b-fc8a21532b9d)
+
+
+
